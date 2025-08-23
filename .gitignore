@@ -1,0 +1,8 @@
+/.build
+*.out
+*.aux
+*.log
+*.xml
+*.bcf
+*.blg
+*.fls
